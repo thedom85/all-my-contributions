@@ -22,6 +22,8 @@ Outside of work, I spends time with this hobbyes:
 ## Gist
 - [All](https://gist.github.com/thedom85/)
 
+**NodeJs : ** [callback_pattern](https://gist.github.com/thedom85/136a3884f48a37d3cbd7e8acf5a48a0b)
+
 ## Social-links
 - [LinkedIn](https://www.linkedin.com/in/domenico-zinzi-95875a37)
 - [GitHub](https://github.com/thedom85/)
