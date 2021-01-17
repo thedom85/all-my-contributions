@@ -22,7 +22,8 @@ Outside of work, I spends time with this hobbyes:
 ## Gist
 - [All](https://gist.github.com/thedom85/)
 
-** .bat :**  [SNTP Sync](https://gist.github.com/thedom85/dbeb58627adfb3d5c3af)
+**.bat :**  [SNTP Sync](https://gist.github.com/thedom85/dbeb58627adfb3d5c3af)
+
 **NodeJs :** [callback_pattern](https://gist.github.com/thedom85/136a3884f48a37d3cbd7e8acf5a48a0b)
 
 ## Social-links
