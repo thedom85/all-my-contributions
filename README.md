@@ -24,7 +24,7 @@ Outside of work, I spends time with this hobbyes:
 
 **.bat :**  [SNTP Sync](https://gist.github.com/thedom85/dbeb58627adfb3d5c3af)
 
-**NodeJs :** [callback_pattern](https://gist.github.com/thedom85/136a3884f48a37d3cbd7e8acf5a48a0b) ; [process_nextTick](https://gist.github.com/thedom85/7a6c6b6f54874f741137f18717c829e6) ; [callback promise async/await](https://gist.github.com/thedom85/bbc1a9368f4f64932aa54b8c1a0d6f9e.js)
+**NodeJs :** [callback_pattern](https://gist.github.com/thedom85/136a3884f48a37d3cbd7e8acf5a48a0b) ; [process_nextTick](https://gist.github.com/thedom85/7a6c6b6f54874f741137f18717c829e6) ; [callback promise async/await](https://gist.github.com/thedom85/bbc1a9368f4f64932aa54b8c1a0d6f9e)
 ## Social-links
 - [LinkedIn](https://www.linkedin.com/in/domenico-zinzi-95875a37)
 - [GitHub](https://github.com/thedom85/)
