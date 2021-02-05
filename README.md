@@ -26,8 +26,7 @@ Outside of work, I spends time with this hobbyes:
 
 **NodeJs :** [callback_pattern](https://gist.github.com/thedom85/136a3884f48a37d3cbd7e8acf5a48a0b) ; [process_nextTick](https://gist.github.com/thedom85/7a6c6b6f54874f741137f18717c829e6) ; [callback promise async/await](https://gist.github.com/thedom85/bbc1a9368f4f64932aa54b8c1a0d6f9e)
 
-**Cypress.io :** 
-- [intercepts_the_call](https://gist.github.com/thedom85/239be235e8525f8719326d266333b9de)
+**Cypress.io :** [intercepts_the_call](https://gist.github.com/thedom85/239be235e8525f8719326d266333b9de)
 
 ## Social-links
 - [LinkedIn](https://www.linkedin.com/in/domenico-zinzi-95875a37)
