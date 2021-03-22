@@ -26,7 +26,7 @@ Outside of work, I spends time with this hobbyes:
 
 **NodeJs :** [callback_pattern](https://gist.github.com/thedom85/136a3884f48a37d3cbd7e8acf5a48a0b) ; [process_nextTick](https://gist.github.com/thedom85/7a6c6b6f54874f741137f18717c829e6) ; [callback promise async/await](https://gist.github.com/thedom85/bbc1a9368f4f64932aa54b8c1a0d6f9e); [Promise](https://gist.github.com/thedom85/b055759f27cefff2acf6d237ecab98bb)
 
-**Cypress.io :** [example_get](https://gist.github.com/thedom85/7f10f68aa4840a0a513d6eba53a89a7c) [intercepts_get](https://gist.github.com/thedom85/239be235e8525f8719326d266333b9de)
+**Cypress.io :** [example_post](https://gist.github.com/thedom85/c1cd7e8993fb50cc5606e775b802cba0) ; [example_get](https://gist.github.com/thedom85/7f10f68aa4840a0a513d6eba53a89a7c) ; [intercepts_get](https://gist.github.com/thedom85/239be235e8525f8719326d266333b9de);
 
 ## Social-links
 - [LinkedIn](https://www.linkedin.com/in/domenico-zinzi-95875a37)
